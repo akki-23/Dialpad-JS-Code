@@ -1,0 +1,12 @@
+/*CSS Style For The Main Dialpad Design*/
+.container{
+    padding-top: 2rem;
+    padding-left: 4rem;
+}
+.custom{
+    width: 6.6rem;
+}
+.head{
+    padding: 1.6rem;
+    color: blueviolet;
+}
